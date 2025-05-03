@@ -7,7 +7,7 @@ The **Agency Project** is a modern web application designed to showcase the serv
 - **HTML5**: For the structure and layout of the website.
 - **CSS3**: For styling the website and creating a responsive design.
 - **Bootstrap 5.3**: For responsive grid system and pre-designed components.
-- **JavaScript**: For handling necessary interactive features (e.g., form validation, smooth scrolling).
+- **JavaScript**: For handling necessary interactive features.
 
 ## Acknowledgements
 - [Bootstrap 5.3](https://getbootstrap.com/) for the responsive layout and components.
